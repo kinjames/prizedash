@@ -27,7 +27,7 @@ Test the website thoroughly to ensure all functionalities, including ticket purc
 Monitor the website regularly, address any reported issues promptly, and update content as needed.
 Continuously promote the raffle event through marketing efforts, such as social media campaigns, email newsletters, and word-of-mouth.
 Support and Contact
-If you encounter any issues during the setup or have any questions, please feel free to reach out to our support team at support@example.com. We are here to assist you and ensure a smooth experience for both you and the participants.
+If you encounter any issues during the setup or have any questions, please feel free to reach out to our support team at prizedash.com We are here to assist you and ensure a smooth experience for both you and the participants.
 
 License
 This Raffle Website is released under the MIT License, which grants you the freedom to modify and distribute the software while providing attribution to the original creators.

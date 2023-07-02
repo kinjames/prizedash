@@ -38,3 +38,4 @@ CSS
 JavaScript
 
 # Contributors
+James Kofi Myers

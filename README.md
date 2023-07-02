@@ -36,3 +36,5 @@ This Raffle Website is released under the MIT License, which grants you the free
 HTML
 CSS
 JavaScript
+
+# Contributors

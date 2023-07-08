@@ -5,7 +5,7 @@ Welcome to the README page for our Raffle Website! This document provides an ove
 ## Overview
 Our Raffle Website is an online platform designed to facilitate ticket sales, announce raffle results, and provide information about the exciting prizes we offer. With a user-friendly interface and secure payment processing, participants can easily purchase tickets and have a chance to win amazing prizes.
 
-Features
+## Features
 Ticket Purchase: Users can browse available ticket options, select the desired quantity, and securely purchase tickets through our integrated payment gateway.
 Result Announcement: The winning ticket number and prize are displayed on the website, creating excitement and congratulating the lucky winner.
 Prize Details: A dedicated page showcases the details, specifications, and images/videos of the prize, allowing participants to learn more about the fantastic rewards.

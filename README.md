@@ -35,7 +35,7 @@ This Raffle Website is released under the MIT License, which grants you the free
 # Built with
 <p>HTML</p>
 <p>CSS</p>
-JavaScript
+<p>JavaScript</p>
 
 # Contributors
 James Kofi Myers
